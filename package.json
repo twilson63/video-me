@@ -1,0 +1,15 @@
+{
+  "name": "video-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "w3 -p ${PORT}"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "w3": "^0.6.1"
+  }
+}
